@@ -1,15 +1,15 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  conversation_id: 
-  sender_id: 
+  conversation_id: 1
+  sender_id: 1
   sender_role: MyString
   content: MyText
   is_read: false
 
 two:
-  conversation_id: 
-  sender_id: 
+  conversation_id: 2
+  sender_id: 2
   sender_role: MyString
   content: MyText
   is_read: false

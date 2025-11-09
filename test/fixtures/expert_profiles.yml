@@ -1,11 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  user_id: 
+  user_id: 1
   bio: MyText
   knowledge_base_links: 
 
 two:
-  user_id: 
+  user_id: 2
   bio: MyText
   knowledge_base_links: 
